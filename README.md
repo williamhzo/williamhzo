@@ -10,4 +10,4 @@ Product-driven and user-first, I'm currently doing all things Frontend at [Mansa
 
 [@williamhzo](https://twitter.com/williamhzo) on Twitter.
 
-👊
+happy to connect 👊
