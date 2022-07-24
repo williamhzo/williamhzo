@@ -1,6 +1,6 @@
 Hi, I’m William 👋
 
-Frontend Engineer from the South West of France, living in Porto. 
+Frontend Engineer from Bordeaux 🇫🇷, living in Porto 🇵🇹. 
 
 Passionate about design systems, CSS, UX and crafting intuitive interfaces.
 
