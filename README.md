@@ -1,8 +1,10 @@
 Hi, I’m William 👋
 
-Product-driven and user-first _Frontend Engineer_.
+Product-driven and user-first _Frontend Engineer_, passionate about design systems, CSS, UX and crafting intuitive interfaces.
 
-Passionate about design systems, CSS, UX and crafting intuitive interfaces.
+On a quest to provide beautiful online experiences while not having to download massive JS bundles to user's browsers.
+
+---
 
 Currently freelancing (next availability: 2023), learning and contributing to Open-Source projects.
 
