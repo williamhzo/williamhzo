@@ -17,6 +17,7 @@ Previously Frontend Lead at [Mansa](https://getmansa.com/), building the product
 [williamhzo.me](https://williamhzo.me/) is my personal website.
 
 [@williamhzo](https://mastodon.design/@williamhzo) on Mastodon.
+
 [@williamhzo](https://twitter.com/williamhzo) on Twitter.
 
 happy to connect 👊
