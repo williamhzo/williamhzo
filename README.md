@@ -1,8 +1,10 @@
 Hi, I’m William 👋
 
-Product-driven and user-first _Frontend Engineer_, passionate about design systems, CSS, UX and crafting intuitive interfaces.
+Product-driven and user-first Frontend Engineer, passionate about design systems, CSS, UX and crafting intuitive interfaces.
 
 On a quest to provide beautiful online experiences while not having to download massive JS bundles to user's browsers.
+
+Interested in Svelte, SvelteKit, Astro and Eleventy.
 
 ---
 
@@ -14,6 +16,7 @@ Previously Frontend Lead at [Mansa](https://getmansa.com/), building the product
 
 [williamhzo.me](https://williamhzo.me/) is my personal website.
 
+[@williamhzo](https://mastodon.design/@williamhzo) on Mastodon.
 [@williamhzo](https://twitter.com/williamhzo) on Twitter.
 
 happy to connect 👊
