@@ -4,7 +4,7 @@ Product-driven and user-first Frontend Engineer, passionate about design systems
 
 On a quest to provide beautiful and accessible online experiences.
 
-Interested in Svelte, SvelteKit, Astro and Eleventy.
+Interested in React, Svelte/Kit, and Astro.
 
 ---
 
