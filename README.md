@@ -4,19 +4,17 @@ Product-driven and user-first Frontend Engineer, passionate about design systems
 
 On a quest to provide beautiful and accessible online experiences.
 
-Interested in React, Svelte/Kit, and Astro.
+Mostly working with React, Next.js, Astro and Swift/SwiftUI.
 
 ---
 
-Currently doing contract work, learning a ton and contributing to Open-Source projects.
+Currently Product Engineer at [Deca](https://deca.art/) on web & iOS and learning a ton.
 
-Previously Frontend Lead at [Mansa](https://getmansa.com/), building the product and design system from scratch: from research and specifications to QA and impact analysis.
+Previously Frontend Lead at [Mansa](https://getmansa.com/), building the product and design system from scratch: from research and specifications to QA.
 
 ---
 
 [williamhzo.me](https://williamhzo.me/) is my personal website.
-
-[@williamhzo](https://mastodon.design/@williamhzo) on Mastodon.
 
 [@williamhzo](https://twitter.com/williamhzo) on Twitter.
 
