@@ -1,21 +1,9 @@
-Hi, I’m William 👋
+hi, i’m william 👋
 
-Product-driven and user-first Frontend Engineer, passionate about design systems, CSS, UX and crafting intuitive interfaces.
+eng & community at [shape](https://shape.network/)
 
-On a quest to provide beautiful and accessible online experiences.
+- [williamhzo.me](https://williamhzo.me/) is my personal website.
 
-Mostly working with React, Next.js, Astro and Swift/SwiftUI.
-
----
-
-Currently Product Engineer at [Deca](https://deca.art/) on web & iOS and learning a ton.
-
-Previously Frontend Lead at [Mansa](https://getmansa.com/), building the product and design system from scratch: from research and specifications to QA.
-
----
-
-[williamhzo.me](https://williamhzo.me/) is my personal website.
-
-[@williamhzo](https://twitter.com/williamhzo) on Twitter.
+- [@williamhzo](https://twitter.com/williamhzo) on twitter/x.
 
 happy to connect 👊
