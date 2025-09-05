@@ -1,6 +1,6 @@
 hi, i’m william 👋
 
-eng & community at [shape](https://shape.network/)
+eng & community at [shape](https://shape.network/) & [deca](https://deca.art/)
 
 - [williamhzo.me](https://williamhzo.me/) is my personal website.
 
