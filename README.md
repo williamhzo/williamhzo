@@ -1,9 +1,9 @@
 hi, i’m william 👋
 
-eng & community at [shape](https://shape.network/) & [deca](https://deca.art/)
+product engineer, currently building [shape](https://shape.network/) and [athena research](https://athenaresearch.xyz/)
 
-- [williamhzo.me](https://williamhzo.me/) is my personal website.
+- [williamhzo.com](https://williamhzo.com/) is my personal website.
 
-- [@williamhzo](https://twitter.com/williamhzo) on twitter/x.
+- [@williamhzo](https://x.com/williamhzo) on twitter/x.
 
 happy to connect 👊
